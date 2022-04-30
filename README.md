@@ -5,6 +5,7 @@ In this repo i am using the below free datasets from UC Irvine Machine Learning 
 https://archive-beta.ics.uci.edu/ml/datasets
 
 ### Regression Models
+1 - Model - predict_final_income_censusdata
 
 ### Classification Models
 
