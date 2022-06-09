@@ -4,9 +4,6 @@
 
 These are the below courses that helps to prepare and clear this certification.
 
-All are paid courses but after these courses you not only clear the certificatin will be a good ML / DL data scientist
-
----------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------
 ***Udemy courses***
